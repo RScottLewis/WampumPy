@@ -1,0 +1,48 @@
+    1  sudo apt-get update
+    2  ls
+    3  rm -r firerfox
+    4  ps -ef|more
+    5  ps -efa|more
+    6  sudo apt-get update
+    7  sudo apt-get upgrade
+    8  sudo apt-get dist-upgrade
+    9  sudo apt autoremove
+   10  command pip3
+   11  command pip
+   12  sudo apt-get install python3-setuptools
+   13  command pip3
+   14  sudo easy_install3 pip
+   15  hist
+   16  history
+   17  command python
+   18  fg
+   19  python -version
+   20  python --version
+   21  sudo apt-get install python3.5
+   22  python --version
+   23  python3 --version
+   24  history>installNotes.txt
+   25  more installNotes.txt
+   26  vi installNotes.txt
+   27  ps -ef|egrep electrum
+   28  ps -ef|egrep elect
+   29  ps -ef|egrep install
+   30  ps -ef|mmore
+   31  ps -ef|more
+   32  ps -ef|grep firefox
+   33  ps -ef|more
+   34  ls
+   35  electrum
+   36  python3
+   37  md src
+   38  mkdir src
+   39  cd src
+   40  ls
+   41  cd E*
+   42  python3 electrum2
+   43  python3 electrum
+   44  vi install.bat
+   47  python3 electrum
+   48  sudo apt-get install python3-pyqt5
+   49  python3 electrum
+   50  history>installNotes.txt

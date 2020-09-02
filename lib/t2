@@ -1,0 +1,17 @@
+vi bitcoin.py
+vi commands.py
+vi daemon.py
+vi i18n.py
+vi interface.py
+vi mnemonic.py
+vi network.py
+vi plot.py
+vi plugins.py
+vi servers.json
+vi servers_testnet.json
+vi simple_config.py
+vi storage.py
+vi synchronizer.py
+vi transaction.py
+vi util.py
+vi wallet.py

@@ -1,0 +1,3 @@
+wampum
+wampum_gui
+wampum_plugins

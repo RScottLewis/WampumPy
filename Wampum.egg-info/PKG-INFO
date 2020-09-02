@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: Wampum
+Version: 1.0.0
+Summary: Lightweight Bitcoin Wallet
+Home-page: https://wampum.org
+Author: R. Scott Lewis  
+Author-email: r.scott.lewis@gmail.com
+License: MIT Licence
+Description: Lightweight Bitcoin Wallet
+Platform: Lynux  

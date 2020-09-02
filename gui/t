@@ -1,0 +1,19 @@
+kivy/__init__.py:# Electrum - lightweight Bitcoin client
+kivy/main_window.py:class ElectrumWindow(App):
+qt/address_dialog.py:# Electrum - lightweight Bitcoin client
+qt/address_list.py:# Electrum - lightweight Bitcoin client
+qt/contact_list.py:# Electrum - lightweight Bitcoin client
+qt/history_list.py:# Electrum - lightweight Bitcoin client
+qt/__init__.py:# Electrum - lightweight Bitcoin client
+qt/installwizard.py:MSG_GENERATING_WAIT = _("Electrum is generating your addresses, please wait...")
+qt/invoice_list.py:# Electrum - lightweight Bitcoin client
+qt/main_window.py:# Electrum - lightweight Bitcoin client
+qt/network_dialog.py:# Electrum - lightweight Bitcoin client
+qt/password_dialog.py:# Electrum - lightweight Bitcoin client
+qt/paytoedit.py:# Electrum - lightweight Bitcoin client
+qt/qrwindow.py:# Electrum - lightweight Bitcoin client
+qt/request_list.py:# Electrum - lightweight Bitcoin client
+qt/seed_dialog.py:# Electrum - lightweight Bitcoin client
+qt/transaction_dialog.py:# Electrum - lightweight Bitcoin client
+qt/util.py:class ElectrumItemDelegate(QStyledItemDelegate):
+qt/utxo_list.py:# Electrum - lightweight Bitcoin client
